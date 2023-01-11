@@ -1,3 +1,3 @@
 Mahlzeit!
 
-Random Gui weil langeweile daheim
+Kleine Gui um das genaue Alter zu bestimmen
